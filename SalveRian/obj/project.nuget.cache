@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lR3g/4mGW0SAmhmPmqadGzNkYGIb/NXYxdPQ1PtrZjcNshfmXhQYoqhyMDZYvJBj6RHijYxfXvAREulTeKMCQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\SalveRian\\SalveRian.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

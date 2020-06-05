@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSjudd6h7fak5Ey4IKji22oCyFoFsa1iFL8yZxZZWPSa7m1pEyeHHYqLVD0tpvXrIj2A1nKPCzWjpADMdnPPRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

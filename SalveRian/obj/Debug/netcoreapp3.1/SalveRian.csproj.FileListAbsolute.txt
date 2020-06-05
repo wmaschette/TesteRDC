@@ -1,0 +1,12 @@
+C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\bin\Debug\netcoreapp3.1\SalveRian.deps.json
+C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\bin\Debug\netcoreapp3.1\SalveRian.dll
+C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\bin\Debug\netcoreapp3.1\SalveRian.pdb
+C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.csprojAssemblyReference.cache
+C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.csproj.CopyComplete
+C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.dll
+C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.pdb

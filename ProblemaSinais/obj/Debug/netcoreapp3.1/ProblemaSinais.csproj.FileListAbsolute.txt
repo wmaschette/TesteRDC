@@ -1,0 +1,12 @@
+C:\Users\Cliente\source\repos\DesafioRdc\ProblemaSinais\bin\Debug\netcoreapp3.1\ProblemaSinais.deps.json
+C:\Users\Cliente\source\repos\DesafioRdc\ProblemaSinais\bin\Debug\netcoreapp3.1\ProblemaSinais.dll
+C:\Users\Cliente\source\repos\DesafioRdc\ProblemaSinais\bin\Debug\netcoreapp3.1\ProblemaSinais.pdb
+C:\Users\Cliente\source\repos\DesafioRdc\ProblemaSinais\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Cliente\source\repos\DesafioRdc\ProblemaSinais\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Cliente\source\repos\DesafioRdc\ProblemaSinais\obj\Debug\netcoreapp3.1\ProblemaSinais.csprojAssemblyReference.cache
+C:\Users\Cliente\source\repos\DesafioRdc\ProblemaSinais\obj\Debug\netcoreapp3.1\ProblemaSinais.AssemblyInfoInputs.cache
+C:\Users\Cliente\source\repos\DesafioRdc\ProblemaSinais\obj\Debug\netcoreapp3.1\ProblemaSinais.AssemblyInfo.cs
+C:\Users\Cliente\source\repos\DesafioRdc\ProblemaSinais\obj\Debug\netcoreapp3.1\ProblemaSinais.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\source\repos\DesafioRdc\ProblemaSinais\obj\Debug\netcoreapp3.1\ProblemaSinais.csproj.CopyComplete
+C:\Users\Cliente\source\repos\DesafioRdc\ProblemaSinais\obj\Debug\netcoreapp3.1\ProblemaSinais.dll
+C:\Users\Cliente\source\repos\DesafioRdc\ProblemaSinais\obj\Debug\netcoreapp3.1\ProblemaSinais.pdb
