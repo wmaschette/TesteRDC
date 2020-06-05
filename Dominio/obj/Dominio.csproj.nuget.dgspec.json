@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\Dominio\\Dominio.csproj": {}
+    "D:\\Documentos\\Pessoais\\Testes\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\Dominio\\Dominio.csproj": {
+    "D:\\Documentos\\Pessoais\\Testes\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "D:\\Documentos\\Pessoais\\Testes\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\Dominio\\Dominio.csproj",
+        "projectPath": "D:\\Documentos\\Pessoais\\Testes\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\Dominio\\obj\\",
+        "outputPath": "D:\\Documentos\\Pessoais\\Testes\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

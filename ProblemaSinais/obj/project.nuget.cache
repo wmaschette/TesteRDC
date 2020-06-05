@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SL8A/3VliyJf748e9ZQiMEg6i3KvCWWNdtKFZ6lpt10zs0w93gQZwZFPWXRcL5OBpLZGZrRRgANNb2WT0beJcw==",
+  "dgSpecHash": "zbCy9WA1pmJJJjxp/1CqvfkjHKIoP7i5roGToN9sZcyhiVtpArTYh12gE3HUuhWTeYmrvOLyYiRqiLZvT0IK6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\ProblemaSinais\\ProblemaSinais.csproj",
+  "projectFilePath": "D:\\Documentos\\Pessoais\\Testes\\ProblemaSinais\\ProblemaSinais.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

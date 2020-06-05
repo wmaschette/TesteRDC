@@ -16,17 +16,20 @@ namespace ProblemaSinais
                 var listaRetorno = new List<DadosSinais>();
                 foreach (string s in dados)
                 {
-                    var retornoSinal = new DadosSinais()
+                    if (!string.IsNullOrWhiteSpace(s))
                     {
-                        Caracteres = s
-                    };
+                        var retornoSinal = new DadosSinais()
+                        {
+                            Caracteres = s
+                        };
 
-                    if (s.Count() % 2 != 0 || !Regex.IsMatch(s, @"^[\[\]\{\}\(\)]+$"))
-                        retornoSinal.Balanceado = false;
-                    else
-                        retornoSinal.Balanceado = ValidarBalanceamento(s);
+                        if (s.Count() % 2 != 0 || !Regex.IsMatch(s, @"^[\[\]\{\}\(\)]+$"))
+                            retornoSinal.Balanceado = false;
+                        else
+                            retornoSinal.Balanceado = ValidarBalanceamento(s);
 
-                    listaRetorno.Add(retornoSinal);
+                        listaRetorno.Add(retornoSinal);
+                    }
                 }
 
                 return listaRetorno;

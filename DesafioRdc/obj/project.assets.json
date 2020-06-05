@@ -6131,11 +6131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\DesafioRdc\\DesafioRdc.csproj",
+      "projectUniqueName": "D:\\Documentos\\Pessoais\\Testes\\DesafioRdc\\DesafioRdc.csproj",
       "projectName": "DesafioRdc",
-      "projectPath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\DesafioRdc\\DesafioRdc.csproj",
+      "projectPath": "D:\\Documentos\\Pessoais\\Testes\\DesafioRdc\\DesafioRdc.csproj",
       "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\DesafioRdc\\obj\\",
+      "outputPath": "D:\\Documentos\\Pessoais\\Testes\\DesafioRdc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6155,14 +6155,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\Dominio\\Dominio.csproj"
+            "D:\\Documentos\\Pessoais\\Testes\\Dominio\\Dominio.csproj": {
+              "projectPath": "D:\\Documentos\\Pessoais\\Testes\\Dominio\\Dominio.csproj"
             },
-            "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\ProblemaSinais\\ProblemaSinais.csproj": {
-              "projectPath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\ProblemaSinais\\ProblemaSinais.csproj"
+            "D:\\Documentos\\Pessoais\\Testes\\ProblemaSinais\\ProblemaSinais.csproj": {
+              "projectPath": "D:\\Documentos\\Pessoais\\Testes\\ProblemaSinais\\ProblemaSinais.csproj"
             },
-            "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\SalveRian\\SalveRian.csproj": {
-              "projectPath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\SalveRian\\SalveRian.csproj"
+            "D:\\Documentos\\Pessoais\\Testes\\SalveRian\\SalveRian.csproj": {
+              "projectPath": "D:\\Documentos\\Pessoais\\Testes\\SalveRian\\SalveRian.csproj"
             }
           }
         }

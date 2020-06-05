@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\ProblemaSinais\\ProblemaSinais.csproj",
+      "projectUniqueName": "D:\\Documentos\\Pessoais\\Testes\\ProblemaSinais\\ProblemaSinais.csproj",
       "projectName": "ProblemaSinais",
-      "projectPath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\ProblemaSinais\\ProblemaSinais.csproj",
+      "projectPath": "D:\\Documentos\\Pessoais\\Testes\\ProblemaSinais\\ProblemaSinais.csproj",
       "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\ProblemaSinais\\obj\\",
+      "outputPath": "D:\\Documentos\\Pessoais\\Testes\\ProblemaSinais\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -57,8 +57,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\Dominio\\Dominio.csproj"
+            "D:\\Documentos\\Pessoais\\Testes\\Dominio\\Dominio.csproj": {
+              "projectPath": "D:\\Documentos\\Pessoais\\Testes\\Dominio\\Dominio.csproj"
             }
           }
         }

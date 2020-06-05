@@ -10,3 +10,15 @@ C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\obj\Debug\netcoreapp3.1\Salve
 C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.csproj.CopyComplete
 C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.dll
 C:\Users\Cliente\source\repos\DesafioRdc\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.pdb
+D:\Documentos\Pessoais\Testes\SalveRian\bin\Debug\netcoreapp3.1\SalveRian.deps.json
+D:\Documentos\Pessoais\Testes\SalveRian\bin\Debug\netcoreapp3.1\SalveRian.dll
+D:\Documentos\Pessoais\Testes\SalveRian\bin\Debug\netcoreapp3.1\SalveRian.pdb
+D:\Documentos\Pessoais\Testes\SalveRian\bin\Debug\netcoreapp3.1\Dominio.dll
+D:\Documentos\Pessoais\Testes\SalveRian\bin\Debug\netcoreapp3.1\Dominio.pdb
+D:\Documentos\Pessoais\Testes\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.csprojAssemblyReference.cache
+D:\Documentos\Pessoais\Testes\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.AssemblyInfoInputs.cache
+D:\Documentos\Pessoais\Testes\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.AssemblyInfo.cs
+D:\Documentos\Pessoais\Testes\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.csproj.CoreCompileInputs.cache
+D:\Documentos\Pessoais\Testes\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.csproj.CopyComplete
+D:\Documentos\Pessoais\Testes\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.dll
+D:\Documentos\Pessoais\Testes\SalveRian\obj\Debug\netcoreapp3.1\SalveRian.pdb

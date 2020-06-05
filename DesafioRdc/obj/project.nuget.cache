@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ahriQUMPCbXW78wOuetabu4Y1C/rOLllppkFVupEdC+CAxqalU0xPl6ZUDS0m5IO4xCHpGwbPFpRVB/a4Eu2pQ==",
+  "dgSpecHash": "MmbxyjJyHCLlL3/t9uzemFamV/v/tQgEKRc9h7Y/GojytUCSbea1c8EvtWzoq0QRTvBH76fVlxUGWkf9vA/h4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cliente\\source\\repos\\DesafioRdc\\DesafioRdc\\DesafioRdc.csproj",
+  "projectFilePath": "D:\\Documentos\\Pessoais\\Testes\\DesafioRdc\\DesafioRdc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Cliente\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
